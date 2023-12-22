@@ -1,0 +1,53 @@
+body{
+    margin: 10cm;
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+
+.nav{
+
+
+height: 100px;
+width: 100px;
+}
+.carte{
+    
+   
+    height: 300px;
+    width: 500px;
+   
+    }
+.élément{
+    
+    
+    width: 550px;
+    display: flex;
+    justify-content: space-around;
+}
+.produit{
+    
+    display: flex;
+    align-items: center;
+}
+.incrèmentation {
+   display: flex;
+   
+}
+.artical1 ,.artical2{
+    
+    display: flex;
+    justify-content: space-around;
+}
+.paiement{
+    border-style: solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+/* .supp {border-style: solid;
+border-color: blue;
+height: 100px;
+width: 100px;
+} */
